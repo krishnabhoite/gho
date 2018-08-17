@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "flogo:activity",
   "description": "activity description",
-  "author": "Krishna Bhoite <krishna.bhoite@gmailc.com>",
+  "author": "Krishna Bhoite <krishna.bhoite@gmail.com>",
   "inputs":[
     {
       "name": "salutation",
