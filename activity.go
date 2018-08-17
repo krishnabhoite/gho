@@ -1,4 +1,4 @@
-package gonam
+package gho
 
 import (
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"

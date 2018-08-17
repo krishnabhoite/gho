@@ -1,4 +1,4 @@
-package gonam
+package gho
 
 import (
 	"io/ioutil"
